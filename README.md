@@ -1,5 +1,5 @@
-# bbrplus-6.x_stable
-Linux BBRplus Kernel 6.x Stable（非LTS）
+# bbrplus-4.x-6.x_stable
+Linux BBRplus Kernel 4.x-6.x Stable（非LTS）
 
 从BBRplus 4.14移植 （注意它并不基于6.x版本的BBR，而只是简单移植了4.14版本的BBRplus）
 
